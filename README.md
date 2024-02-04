@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajaykala
-- 👀 I’m interested in Power Bi 
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Data Analytics/ business Analysis
+- 🌱 I’m currently learning - Microsoft Power BI
 - 📫 How to reach me Email -Ajaykala222@gmail.com
 
 <!---
